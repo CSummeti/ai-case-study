@@ -2,7 +2,7 @@
 Caspian Summeti
 ## Overview and Origin
 
-* Name of company
+* Name of company:
 Santander Bank
 * When was the company incorporated?
 On 15 May 1857
